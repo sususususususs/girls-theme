@@ -1,0 +1,42 @@
+{
+    "name": "girls-theme",
+    "displayName": "girls-theme",
+    "description": "a pink theme for girls",
+    "version": "0.0.1",
+    "icon": "icon/icon.png",
+    "galleryBanner": {
+        "color": "#c7ADFB",
+        "theme": "light"
+    },
+    "publisher": "suwanqing",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sususususususs/girls-theme.git"
+    },
+    "keywords": ["theme", "pink", "girls", "pink-theme"],
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "author": {
+        "name": "suwanqing",
+        "email": "1419118334@qq.com",
+        "url": "https://github.com/sususususususs"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "girls-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mytheme-color-theme.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/sususususususs/girls-theme/issues"
+    },
+    "homepage": "https://github.com/sususususususs/girls-theme/readme"
+}
