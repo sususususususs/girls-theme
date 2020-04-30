@@ -1,9 +1,9 @@
 {
     "name": "girls-theme",
-    "displayName": "girls-theme",
-    "description": "a pink theme for girls",
+    "displayName": "Cool-girls-theme",
+    "description": "a cool pink theme for girls",
     "version": "0.0.1",
-    "icon": "icon/icon.png",
+    "icon": "icon.png",
     "galleryBanner": {
         "color": "#c7ADFB",
         "theme": "light"
@@ -13,7 +13,7 @@
         "type": "git",
         "url": "https://github.com/sususususususs/girls-theme.git"
     },
-    "keywords": ["theme", "pink", "girls", "pink-theme"],
+    "keywords": ["theme", "pink", "girls", "pink-theme", "girl", "cool"],
     "engines": {
         "vscode": "^1.44.0"
     },
@@ -29,7 +29,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "girls-theme",
+                "label": "Coolgirls-theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mytheme-color-theme.json"
             }
